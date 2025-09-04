@@ -3,7 +3,8 @@
 Contact Info  
 ###Education Senior Appalachian State University  
 Geography concentration, GIS Certificate(https://geo.appstate.edu/)  
-###Profeciencies  
+###Proficiencies
 1. ArcGIS Pro  
 2. Adobe Ilustrator  
+
 ![alt text](image-1.png)
